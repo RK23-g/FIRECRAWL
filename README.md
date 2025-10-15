@@ -62,6 +62,3 @@ pnpm dev  # or npm run dev / yarn dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
-## License
-
-MIT
